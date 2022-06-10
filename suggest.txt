@@ -1,0 +1,248 @@
+variablesWith|variablesWithComponents|tabnine
+import { getCatego|import { getCategoryTermsFromKeywords$1 } from '../nr-graphql-helpers';|tsserver-typescript
+getAss|getAssetSourceUrl|tabnine
+GI|GITHUB_REPO_BASE_URL|tabnine
+_constructIconU|_constructIconUrl|tabnine
+cons|constants|tsserver-typescript
+create|create_validate_pr_quickstarts|tsserver-typescript
+nr|nr-graphql-helpers|tabnine
+getCate|getCategoryTermsFromKeywords|tabnine
+removeRepoPathP|removeRepoPathPrefix|tabnine
+import {removeRepo|import { removeRepoPathPrefix$1 } from './helpers';|tsserver-typescript
+Ar|Array.isArray(filePaths) || filePaths.length !== 1|tabnine
+A|Array.isArray(filePaths) || filePaths.length !== 1) {}|tabnine
+Compon|ComponentUnionType;|tabnine
+ArrayOf|ArrayOfConstrucors|tabnine
+Data|DataSource, DataSource|tabnine
+Dashboar|Dashboard, DataSource|tabnine
+|QuickstartMutationVariable|tsserver-typescript
+Quicks|QuickstartMutationVariable|tabnine
+get|getMutationVariables|buffer
+g|getAssetSourceUrl|tabnine
+getAssetSouc|getAssetSourceUrl|tabnine
+removeRepo|removeRepoPathPrefix|tabnine
+quick|QuickstartConfig|file
+QuickstartConfig|QuickstartConfigAlert|tabnine
+dataSourceI|dataSourceIds|tabnine
+dataS|dataSources|tabnine
+dat|dataSources|tsserver-typescript
+data|dataSources?.map|tabnine
+a|alertPolicies?|tsserver-typescript
+Dash|getDashboards|tsserver-typescript
+Data|DataSource[];|tabnine
+getData|getDataSources(): DataSource|tabnine
+da|dashboards?|tsserver-typescript
+con|contents|tsserver-typescript
+DataS|DataSource|tabnine
+readQuick|readQuickstartFile|tabnine
+readQuick|readQuickstartFile } from '../helpers'|tabnine
+|DataSourceConfig|tsserver-typescript
+Data|DataSourceConfig|tabnine
+|QuickstartConfig|tsserver-typescript
+dash|Dashboard|tsserver-typescript
+Quick|QuickstartAlertInput|tabnine
+readQuic|readQuickstartFile|tabnine
+readQuick|readQuickstartFile(path.join())|tabnine
+readQui|readQuickstartFile|tabnine
+FilePath|FilePathAndContents;|tabnine
+help|helpers|tsserver-typescript
+from|from '../helpers';|tabnine
+PathAnd|FilePathAndContents|tabnine
+Quickst|QuickstartConfig> {|tabnine
+QuickstartA|QuickstartAlertInput|tsserver-typescript
+destinat|destination:|tabnine
+FileP|FilePath } from '../types/'|tabnine
+readQu|readQuickstartFile|tsserver-typescript
+|Component|tsserver-typescript
+|QuickstartMutationVariable|file
+all|allQuickstartConfigPaths|tabnine
+graphql|graphqlRequests|tabnine
+mutatio|mutationInput);|tabnine
+readYamlFile|readYamlFile|tsserver-typescript
+read|readYamlFile|tabnine
+splitC|splitConfigPath|tabnine
+procs|process.cwd()}|tabnine
+poli|policies|around
+Target|Target = 'alert-policies'|tabnine
+alert|alert-policies' | 'images' | 'quickst'|tabnine
+Dire|DirectoryAndDashTuple|tabnine
+FilePathAn|FilePathAndContents|tabnine
+RmDirOptions|RmOptions|tsserver-typescript
+newDash|newDashboardLocation|tabnine
+readFile|readFileSync|tsserver-typescript
+quickstartD|quickstartDir|tabnine
+fullDash|fullDashboardLocation,|tabnine
+dashboardScree|dashboardScreenshotPaths|tabnine
+cu|currentDashboardLocation|tabnine
+full|fullDashboardLocation|tabnine
+fullD|fullDashboardPath;|tabnine
+currentDa|currentDashLocation|tabnine
+full|fullDashboardPath|tabnine
+dashboardScren|dashboardScreenshots|tabnine
+getDash|getDashboardScreenshotsPath|tabnine
+CAT|CATEGORY_TERMS_QUERY|tabnine
+add|add|tsserver-javascript
+Quci|QuickstartConfig|tsserver-typescript
+IdsAn|IdsAndPaths[] =|tabnine
+FileP|FilePathAndContents|tabnine
+Quick|QuickstartConfig|tabnine
+Quick|QuickstartConfig|tsserver-typescript
+Quicks|QuickstartConfig|tabnine
+Quick|QuickstartConfig.Id|tabnine
+Quickstart|QuickstartConfig|tabnine
+FilePath|FilePathAndContents =|tabnine
+FilePath|FilePathAndContents|tabnine
+Quick|QuickstartConfig;|tabnine
+getQuickstartF|getQuickstartfilesFromLocal|tabnine
+useQ|useQueryParameter|tsserver-typescript
+useQuick|useQuickstartPreview|tabnine
+getQuci|getQuickstartFilesFromLocal|tabnine
+quickst|quickstarts|file
+installPlan|installPlansVal|tabnine
+parseI|parseInstallPlans|tsserver-javascript
+install|installPlansContent|tabnine
+installPlansco|installPlansContent}|tabnine
+installPl|installPlansContent|tabnine
+install|installPlansContent|buffer
+parseQuick|parseQuickstartFiles|tabnine
+configC|configContentMissingFields|tabnine
+missi|missingConfigOutput|tsserver-javascript
+expe|expectedConfigOutput);|tabnine
+parseQuick|parseQuickstartFiles|tsserver-javascript
+configContentMi|configContentMissingFields|tabnine
+|content|tsserver-javascript
+|mock_data|tsserver-javascript
+expectedDashboa|expectedDashboardOutput|around
+|mock_data|file
+expectedDash|expectedDashboardOutput);|tabnine
+dashb|dashboardContent|tabnine
+dashboardC|dashboardContent|tabnine
+parseD|parseDashboardFiles|tsserver-javascript
+|testContent|tsserver-javascript
+parseQuicks|parseQuickstartFiles|tabnine
+fe|fetchHelpers|tsserver-javascript
+resetAll|resetAllMocks|tabnine
+par|parseHelpers|tsserver-javascript
+|parseHelpers|tsserver-javascript
+obs|observability|tabnine
+Qu|QuickstartDetails|tsserver-typescript
+|QuickstartDetails.js|file
+tem|templates|tsserver-typescript
+quicksta|quickstartPath}`);|tabnine
+fet|fetchHelpers|tsserver-javascript
+getQuicks|getQuickstartFilesFromPR from ''|tabnine
+useGit|useGithubFetchFiles|tabnine
+useGith|useGithubFetchFiles|tabnine
+|useGithubFetchFiles|tsserver-typescript
+|hooks|tsserver-typescript
+useGithub|useGithubFetchFiles|tabnine
+try|try {}|tabnine
+try|trycatch|snippets
+rawMetan|rawMetadata.fileName|tabnine
+setRawConte|setRawContentFiles|tabnine
+downl|download_url|tabnine
+with|with status ' + prResponse.status|tabnine
+jsonF|jsonFileType|tabnine
+yamlF|yamlFileType|tabnine
+match(|match(yamlFileType)|tabnine
+rawConte|rawContentObj;|tabnine
+fileAg|fileAggregator|tabnine
+jsonFil|jsonFileType|tabnine
+|getReader|tsserver-typescript
+|locked|tsserver-typescript
+fileA|fileAggregator, prResponse|tabnine
+getRaw|getRawContent|tabnine
+fileA|fileAggregator|tabnine
+fileAggr|fileAggregator|tabnine
+fileAgg|fileAggregator|tabnine
+fileA|fileAggregator;|tabnine
+fileA|fileAggregator|tsserver-typescript
+fileAgg|fileAggregator|tsserver-typescript
+branchRe|branchResponseJSON|tabnine
+GITHUB|GITHUB_API_BASE_URL}/${dirListing}|tabnine
+branch|branchResponseJSON|tabnine
+branchResp|branchResponseJSON|tabnine
+qi|quickstartPath|tabnine
+GITH|GITHUB_API_PULL_URL|tsserver-typescript
+branch|branchSHA|tabnine
+prRespones|prResponseJSON|tabnine
+san|sanitizedFile|tabnine
+sor|sortKeysAlphabetically|tabnine
+stri|stringify|tsserver-javascript
+winc|wincmd|tabnine
+init.|init.vim|tabnine
+Docu|Documents/external"|tabnine
+int|internal|file
+fix|fixNames|tabnine
+check_quickstart_u|check_quickstart_uniqueness|tabnine
+|content|file
+i18|i18n|file
+SCR|SCRIPT_DIR|tabnine
+conv|convertImages.js|file
+change|changeImgFileName.js|file
+script|script|sh
+img|imgroot|sh
+new|newFileName|tabnine
+|rest.rest|file
+possible|possibleMoves|tabnine
+possible|possibleMoves);|tabnine
+c|cy, possibleMoves|tabnine
+possi|possibleMoves|tabnine
+bfs|WSAENOBUFS|tsserver-typescript
+possibl|possibleMoves|tabnine
+number|number, number]|tabnine
+checkNext|checkNextBody|tabnine
+nr|nr1|file
+Docume|Documents|file
+|starter-snake-typescript|file
+personal|personal|tabnine
+ex|external|file
+utf|utf8|tsserver-javascript
+ut|utf-8|tsserver-javascript
+|encoding?|tsserver-javascript
+readFileS|readFileSync } from ''|tabnine
+typescript|typescript-eslint/|tabnine
+ts|tsconfig.json|file
+typesc|typescript-eslint/recommended|tabnine
+rec|recommended',|tabnine
+typesc|typescript-eslint|tabnine
+plugi|plugin|tabnine
+src|src/images|tabnine
+i18|i18paths|tabnine
+Plu|Plug|tabnine
+im|imgroot|sh
+im|imgroot|tabnine
+img|imgroot|tabnine
+imag|images|tabnine
+imgro|imgroot|tabnine
+i18|i18root" -name images -and -type d -print`|tabnine
+im|images|file
+i|i18n|tabnine
+i|images|file
+__d|__dirname|tabnine
+alias:|aliases: {}|tabnine
+Externa|ExternalLink|tabnine
+retur|return;|tabnine
+plugin|plug#begin|around
+json|json"],|tabnine
+type|typescriptreact|around
+javasc|javascriptreact|around
+type|typescript", ""|tabnine
+java|javascript", ""|tabnine
+javas|javascript|tabnine
+"coc.preferences.format|"coc.preferences.formatOnSaveFiletypes": [$1],|json
+echo|"suggest.echodocSupport": ${1:false},|json
+"eslin.alwa|"eslint.alwaysShowStatus": ${1:false},|json
+|yarn|json
+"eslint.pack|"eslint.packageManager": $1,|json
+uploadParam|uploadParams = {}|tabnine
+"tab|"tabnine.triggers": [$1],|json
+"prettier|"typescript.suggestionActions.enabled": ${1:true},|json
+tru|true|tabnine
+"pretier|"prettier.jsxSingleQuote": ${1:false},|json
+"pret|"prettier.printWidth": ${1:80},|json
+"pret|"prettier.semi": ${1:true},|json
+|"json.schemas": [$1]|json
+|"eslint.probe": [|json
+|"onSave"|json
+|"eslint.run": $1|json
